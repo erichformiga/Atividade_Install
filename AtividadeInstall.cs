@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace LoginProduto
+namespace AtividadeInstall
 {
     public partial class FormNome : Form
     {
